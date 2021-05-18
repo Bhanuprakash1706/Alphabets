@@ -1,3 +1,3 @@
 # Alphabets
 assignment OUTPUT:
-https://bhanuprakash1706.github.io/Alphabets/
+https://bhanuprakash1706.github.io/alphabets/
